@@ -18,8 +18,8 @@ Quan_dissertation/
 │   │   └── a_star_planner.py       # A* path planner
 │   └── Creating_map/
 │       └── edit_map.py             # Map editing tools
-├── models_initial/ # Saved models
-├── logs_initial/   # Training logs and evaluation results
+├── models_initial/                 # Saved models
+├── logs_initial/                   # Training logs and evaluation results
 ├── worlds/                         # Webots world files
 └── README.md
 ```
