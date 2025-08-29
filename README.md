@@ -71,14 +71,14 @@ To evaluate a trained model:
 ```bash
 python advanced_test.py
 ```
-- Configurations:
+Configurations:
 - MODEL_PATH                                        - Copy the directory to your model (.zip)
 - FAILURE_LOG_PATH                                  - Copy the directory of the failue csv file test_log if you want to re-do scenarios
 - NUM_EPISODES_PER_CONDITION                        - Choose the number episode you want to run
 - RENDER_MODE =                                     -'none'  # 'plot' to see live plots, 'none' for no rendering
 - RUN_PATH_FOLLOWING_TEST and UN_OBSTACLE_TEST      - only choose one
-- 
-- Failures and trajectory logs will be saved in `test_logs/`
+  
+Failures and trajectory logs will be saved in `test_logs/`
 
 ---
 
