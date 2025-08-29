@@ -1,0 +1,7 @@
+stable-baselines3[extra]
+gymnasium
+torch
+numpy
+matplotlib
+opencv-python
+pandas
